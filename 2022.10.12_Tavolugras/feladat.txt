@@ -1,0 +1,9 @@
+'''
+    1. Kérje be egy versenyző nevét -> indult-e ?
+    2. Legnagyobb ugrás -> hány méter
+    3. Kérjünk be egy távolságot -> hányan ugrattak ennél többet
+    4. Legjobb ugrások átlaga
+    0. Utolsó pillatban újabb versenyző nevezett -> 
+            Kérjük be a nevét, országát, 3 ugrás eredményét -> tároljuk el a listába
+            a legjobb ugrását nekünk kell kiszámolni.
+'''
