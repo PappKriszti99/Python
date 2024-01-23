@@ -1,0 +1,7 @@
+193.224.129.143 uni.sze.hu
+173.194.41.169 google.com
+199.59.150.39 twitter.com
+66.6.40.38 tumblr.com
+127.0.0.1 localhost
+193.225.219.34 jedlik.eu
+185.80.50.8 gamestar.hu
